@@ -57,3 +57,35 @@ This project is designed for research, engineering development, and robotics exp
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🎯 Project Goals
+
+### Short-Term
+- Arduino sensor hub  
+- Jetson ↔ Pixhawk MAVLink link  
+- Voice control  
+
+### Mid-Term
+- Multi-sensor fusion  
+- AI navigation  
+- Emergency-stop safety system  
+
+### Long-Term
+- SLAM  
+- LiDAR fusion  
+- Autonomous docking  
+- Advanced ML behaviors  
+
+---
+
+## 👤 Author
+Akemini Ikpe  
+Mechanical Engineering Technology  
+Texas A&M University–Central Texas  
+
+---
+
+## 📜 License
+MIT License  
